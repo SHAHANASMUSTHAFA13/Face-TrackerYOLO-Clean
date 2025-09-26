@@ -1,0 +1,4 @@
+{
+    "detection_skip_frames": 5,
+    "log_folder": "logs"
+}

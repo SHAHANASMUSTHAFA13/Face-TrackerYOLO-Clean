@@ -1,0 +1,5 @@
+logs/ 
+*.jpg 
+*.db 
+__pycache__/ 
+*.pyc 
